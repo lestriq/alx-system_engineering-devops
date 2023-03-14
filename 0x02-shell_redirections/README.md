@@ -1,1 +1,1 @@
-Readme for shell redirections Project README.md
+Readme for shell redirections Project
